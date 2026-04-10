@@ -1,0 +1,16 @@
+D:\数据\WinFormsApp2\WinFormsApp2\bin\Release\net8.0-windows\找出最大精度.exe
+D:\数据\WinFormsApp2\WinFormsApp2\bin\Release\net8.0-windows\找出最大精度.deps.json
+D:\数据\WinFormsApp2\WinFormsApp2\bin\Release\net8.0-windows\找出最大精度.runtimeconfig.json
+D:\数据\WinFormsApp2\WinFormsApp2\bin\Release\net8.0-windows\找出最大精度.dll
+D:\数据\WinFormsApp2\WinFormsApp2\bin\Release\net8.0-windows\找出最大精度.pdb
+D:\数据\WinFormsApp2\WinFormsApp2\obj\Release\net8.0-windows\WinFormsApp2.Form1.resources
+D:\数据\WinFormsApp2\WinFormsApp2\obj\Release\net8.0-windows\找出最大精度.csproj.GenerateResource.cache
+D:\数据\WinFormsApp2\WinFormsApp2\obj\Release\net8.0-windows\找出最大精度.GeneratedMSBuildEditorConfig.editorconfig
+D:\数据\WinFormsApp2\WinFormsApp2\obj\Release\net8.0-windows\找出最大精度.AssemblyInfoInputs.cache
+D:\数据\WinFormsApp2\WinFormsApp2\obj\Release\net8.0-windows\找出最大精度.AssemblyInfo.cs
+D:\数据\WinFormsApp2\WinFormsApp2\obj\Release\net8.0-windows\找出最大精度.csproj.CoreCompileInputs.cache
+D:\数据\WinFormsApp2\WinFormsApp2\obj\Release\net8.0-windows\找出最大精度.dll
+D:\数据\WinFormsApp2\WinFormsApp2\obj\Release\net8.0-windows\refint\找出最大精度.dll
+D:\数据\WinFormsApp2\WinFormsApp2\obj\Release\net8.0-windows\找出最大精度.pdb
+D:\数据\WinFormsApp2\WinFormsApp2\obj\Release\net8.0-windows\找出最大精度.genruntimeconfig.cache
+D:\数据\WinFormsApp2\WinFormsApp2\obj\Release\net8.0-windows\ref\找出最大精度.dll

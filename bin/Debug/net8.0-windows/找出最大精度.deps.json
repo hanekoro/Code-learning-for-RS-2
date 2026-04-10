@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "找出最大精度/1.0.0": {
+        "runtime": {
+          "找出最大精度.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "找出最大精度/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
